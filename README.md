@@ -1,5 +1,5 @@
 # bloc_timer 
-I following this to build timer by using BloC pattern in flutter ♥ ♥ 
+I following [this](https://felangel.github.io/bloc/#/fluttertimertutorial) toturial to build timer by using BloC pattern in flutter ♥ ♥ 
 
 #### What i did ❓ 
 - separate all in classes 📒 
